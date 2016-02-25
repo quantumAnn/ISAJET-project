@@ -1,4 +1,4 @@
-# Isajet-project
+# ISAJET-project
 
 ISAJET is a Monte Carlo Event Generator for p p, pbar p, and e+ e- Interactions
 written by
